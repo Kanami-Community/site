@@ -1,2 +1,0 @@
-(self.webpackChunkkanami_community_site=self.webpackChunkkanami_community_site||[]).push([[256],{8233:function(n,t,e){"use strict";e.r(t);var u=e(8140),i=e(4741),r=function(n){function t(){return n.apply(this,arguments)||this}return(0,u.Z)(t,n),t.prototype.render=function(){return i.createElement("h1",null,"404")},t}(i.Component);t.default=r}}]);
-//# sourceMappingURL=component---src-pages-404-jsx-34d1cd119c0ed9f90c00.js.map

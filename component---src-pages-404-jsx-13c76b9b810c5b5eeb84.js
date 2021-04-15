@@ -1,0 +1,2 @@
+(self.webpackChunksite_source_code=self.webpackChunksite_source_code||[]).push([[256],{9576:function(e,t,n){"use strict";n.r(t);var r=n(1643),u=n(4387),c=function(e){function t(){return e.apply(this,arguments)||this}return(0,r.Z)(t,e),t.prototype.render=function(){return u.createElement("h1",null,"404")},t}(u.Component);t.default=c}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-13c76b9b810c5b5eeb84.js.map
